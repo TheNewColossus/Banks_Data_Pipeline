@@ -1,0 +1,42 @@
+14-10-2024 16:27:53 :: Starting the extraction phase of the pipeline
+14-10-2024 16:27:56 :: Extraction phase completed successfully
+14-10-2024 16:27:56 :: Starting the transformation phase of the pipeline
+14-10-2024 16:27:56 :: Transformation phase completed successfully
+14-10-2024 16:27:56 :: Saving to CSV file
+14-10-2024 16:27:56 :: Saving to CSV done!
+14-10-2024 16:27:56 :: Saving to a database
+14-10-2024 16:27:56 :: Saving to database done!
+14-10-2024 16:27:56 :: Running Select Query
+14-10-2024 16:27:56 :: Select Query ran successfully
+14-10-2024 16:27:56 :: Running Max query
+14-10-2024 16:27:56 :: Max query ran successfully
+14-10-2024 16:30:49 :: Starting the extraction phase of the pipeline
+14-10-2024 16:30:53 :: Extraction phase completed successfully
+14-10-2024 16:30:53 :: Starting the transformation phase of the pipeline
+14-10-2024 16:30:53 :: Transformation phase completed successfully
+14-10-2024 16:30:53 :: Saving to CSV file
+14-10-2024 16:30:53 :: Saving to CSV done!
+14-10-2024 16:30:53 :: Saving to a database
+14-10-2024 16:30:53 :: Saving to database done!
+14-10-2024 16:30:53 :: Running Select Query
+14-10-2024 16:30:53 :: Select Query ran successfully
+14-10-2024 16:30:53 :: Running Max query
+14-10-2024 16:30:53 :: Max query ran successfully
+14-10-2024 16:32:55 :: Starting the extraction phase of the pipeline
+14-10-2024 16:32:57 :: Extraction phase completed successfully
+14-10-2024 16:32:57 :: Starting the transformation phase of the pipeline
+14-10-2024 16:32:57 :: Transformation phase completed successfully
+14-10-2024 16:32:57 :: Saving to CSV file
+14-10-2024 16:32:57 :: Saving to CSV done!
+14-10-2024 16:32:57 :: Saving to a database
+14-10-2024 16:32:58 :: Saving to database done!
+14-10-2024 16:32:58 :: Running Select Query
+14-10-2024 16:32:58 :: Select Query ran successfully
+14-10-2024 16:32:58 :: Running Max query
+14-10-2024 16:32:58 :: Max query ran successfully
+14-10-2024 16:32:58 :: Running Min query
+14-10-2024 16:32:58 :: Min query ran successfully
+
+
+
+I used the read_html function of the pandas library to get the table from the url. So, I didn't need to inspect the web page.
